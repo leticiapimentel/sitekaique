@@ -17,5 +17,6 @@ h1
 
 body{
     background-image: url("../imagens/fundo.jpg");
+    background-repeat: no-repeat;
     text-align: center
 }
